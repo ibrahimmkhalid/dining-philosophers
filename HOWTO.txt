@@ -1,0 +1,16 @@
+Dining Philosophers Problem
+17L-4472 | EE-6A2
+
+Requirements:
+        xterm terminal (only for external display mode)
+
+Install:
+        run make
+
+Usage:
+        ./main [e|i] n
+
+options:
+        [e|i]    e - external terminal windows for each philosopher
+                 i - internal terminal windows for all philosophers
+        n        Number of philosophers
